@@ -1,0 +1,33 @@
+backend/app/services/reservations.py
+  s_b0dfcd3aeab825::t_eadca9b8cd4ae3 26-28
+  s_b0dfcd3aeab825::t_856f774759ff90 30-34
+  s_b0dfcd3aeab825::t_a3b45292fee2ca 96
+  s_b0dfcd3aeab825::t_4fbd8f5b79f42f 35-37
+  s_b0dfcd3aeab825::t_b408bcac12ac4c 51-53
+  s_b0dfcd3aeab825::t_3bbd29329d139b 2,4,6-12,14-17,29,38-41,43-47,49-50,54-58,60
+  s_b0dfcd3aeab825::t_4c9c57c42aa8e6 59
+  s_b0dfcd3aeab825::t_d68504021cb6a2 42
+  s_b0dfcd3aeab825::t_09257d8fef8e15 48
+  s_b0dfcd3aeab825::t_c668ce0dd42ad2 25
+backend/app/core/database_pool.py
+  s_b0dfcd3aeab825::t_d0221acfc84d77 17-19
+backend/app/api/v1/dashboard.py
+  s_b0dfcd3aeab825::t_9f92d434bc8c92 18-19
+  s_b0dfcd3aeab825::t_66c66cc5551316 15,17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "f2428813967ac93292a9c916c4eb273fadd6d80f",
+  "prompts": {},
+  "sessions": {
+    "s_b0dfcd3aeab825": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "302e666d-03f4-4554-966f-3cca06fde460",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "hovo_baghdasaryan <hovhannes.baghdasaryan@eckoh.com>"
+    }
+  }
+}
